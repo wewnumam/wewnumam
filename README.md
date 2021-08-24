@@ -8,4 +8,4 @@
 
 #### Github Stats
 
-![wewnumam's github stats](https://github-readme-stats.vercel.app/api?username=wewnumam&include_all_commits=true&hide=prs,contribs&count_private=true&show_icons=true&theme=dracula)
+![wewnumam's github stats](https://github-readme-stats.vercel.app/api?username=wewnumam&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
