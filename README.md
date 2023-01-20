@@ -1,30 +1,22 @@
-# Ahmad Adillaumam
+# Hi there, I'm Umam <a href="https://wewnumam.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-Hi there 👋! My name is Umam and I am a Game Technology Student at [STMM MMTC Yogyakarta](https://mmtc.ac.id/). I am passionate about using technology to solve problems and create positive impact in the world.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4Zw7AePItu5K9-3mgCxw-w?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UC4Zw7AePItu5K9-3mgCxw-w?sub_confirmation=1)
+[![Website](https://img.shields.io/website?label=wewnumam.github.io&style=for-the-badge&url=https%3A%2F%2Fwewnumam.github.io)](https://wewnumam.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/adillaumam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
----
+- 🤹‍♂️ &nbsp;I'm a Student, Web Developer, Game Developer, & Graphic Designer
+- 🌱 &nbsp;I’m currently learning Unity
+- 🤖 &nbsp;I love having discussions about cool things
+- ⏳ &nbsp;I believe this game called life is played by learning ...uh so deep
 
-Some of my top skills include:
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🌐 Web Development
-- 🎮 Game Development
-- 🎨 Graphic Design
-- 🏭 Project Management
+🔗 &nbsp;**Visit my [linktr.ee/adillaumam](https://linktr.ee/adillaumam) to find out more about me**
 
----
-
-I am currently working on a few projects, including:
-
-- 🗺 [Game Tecnology STMM Game Developer Roadmap](https://github.com/wewnumam/gtstmm-gamedev-roadmap) - A practical guide to becoming a game developer
-
-- 📰 [Ahmad Adillaumam's Blog](https://github.com/wewnumam/wewnumam.github.io) - A collection of articles and musings on various topics
-
-If you would like to connect with me or learn more about me, you can find me on [LinkedIn](https://www.linkedin.com/in/ahmadadillaumam) or explore my [Linktree](https://linktr.ee/adillaumam).
-
----
-
-GitHub Stats
+⚡ GitHub Stats
 
 [![Ahmad Adillaumam's github stats](https://github-readme-stats.vercel.app/api?username=wewnumam&show_icons=true&theme=dark)](https://github.com/wewnumam)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wewnumam&langs_count=8&layout=compact&theme=dark)](https://github.com/wewnumam)
+[![Ahmad Adillaumam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wewnumam&langs_count=8&layout=compact&theme=dark)](https://github.com/wewnumam)
