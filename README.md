@@ -11,6 +11,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How to Run Your First Playtest](https://wewnumam.github.io/articles/how-to-run-your-first-playtest/)
+- [Why Do People Play Games](https://wewnumam.github.io/articles/why-do-people-play-games/)
+- [Making Money From Games](https://wewnumam.github.io/articles/making-money-from-games/)
+- [5 Tips for Writing Clear and Concise Git Commit Messages](https://wewnumam.github.io/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/)
+- [5 Tips for Creating Clean Code](https://wewnumam.github.io/articles/5-tips-for-creating-clean-code/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Visit my [linktr.ee/adillaumam](https://linktr.ee/adillaumam) to find out more about me**
