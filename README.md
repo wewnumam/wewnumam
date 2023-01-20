@@ -34,6 +34,11 @@
 [![Ahmad Adillaumam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wewnumam&langs_count=8&layout=compact&theme=dark)](https://github.com/wewnumam)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </details>
