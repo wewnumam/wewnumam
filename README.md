@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4Zw7AePItu5K9-3mgCxw-w?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UC4Zw7AePItu5K9-3mgCxw-w?sub_confirmation=1)
 [![Website](https://img.shields.io/website?label=wewnumam.github.io&style=for-the-badge&url=https%3A%2F%2Fwewnumam.github.io)](https://wewnumam.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/adillaumam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%wewnumam&screen_name=adillaumam)
+[![Twitter Follow](https://img.shields.io/twitter/follow/adillaumam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwewnumam&screen_name=adillaumam)
 
 - 🤹‍♂️ &nbsp;I'm a Student, Web Developer, Game Developer, & Graphic Designer
 - 🌱 &nbsp;I’m currently learning Unity
@@ -24,8 +24,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 </details>
-
-<br>
 
 <details>
   <summary><b>⚡ &nbsp;GitHub Stats</b></summary>
