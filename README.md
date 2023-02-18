@@ -7,7 +7,7 @@
 - 🤹‍♂️ &nbsp;I'm a Student, Web Developer, Game Developer, & Graphic Designer
 - 🌱 &nbsp;I’m currently learning Unity
 - 🤖 &nbsp;I love having discussions about cool things
-- ⏳ &nbsp;I believe this game called life is played by learning ...uh so deep
+- ⏳ &nbsp;I believe this game called "life" is played by learning... **uh so deep*
 
 🔗 &nbsp;**Visit my [linktr.ee/adillaumam](https://linktr.ee/adillaumam) to find out more about me**
 
