@@ -16,11 +16,11 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Having the Right Mindset to Survive in the Game Industry](https://wewnumam.github.io/articles/having-the-right-mindset-to-survive-in-the-game-industry/)
 - [Gameseed Roadshow Key Points](https://wewnumam.github.io/articles/gameseed-roadshow-key-points/)
 - [How to Run Your First Playtest](https://wewnumam.github.io/articles/how-to-run-your-first-playtest/)
 - [Why Do People Play Games](https://wewnumam.github.io/articles/why-do-people-play-games/)
 - [Making Money From Games](https://wewnumam.github.io/articles/making-money-from-games/)
-- [5 Tips for Writing Clear and Concise Git Commit Messages](https://wewnumam.github.io/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
