@@ -16,11 +16,11 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gametech STMM MMTC Graduate Profile](https://wewnumam.github.io/articles/gametech-stmm-mmtc-graduate-profile/)
 - [Having the Right Mindset as a Programmer](https://wewnumam.github.io/articles/having-the-right-mindset-as-a-programmer/)
 - [Indonesian Game Developer Forums](https://wewnumam.github.io/articles/indonesian-game-developer-forums/)
 - [Understanding Publisher Expectations for Your Game Pitch](https://wewnumam.github.io/articles/understanding-publisher-expectations-for-your-game-pitch/)
 - [Having the Right Mindset to Survive in the Game Industry](https://wewnumam.github.io/articles/having-the-right-mindset-to-survive-in-the-game-industry/)
-- [Gameseed Roadshow Key Points](https://wewnumam.github.io/articles/gameseed-roadshow-key-points/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
