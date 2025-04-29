@@ -16,11 +16,11 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Architecture Patterns](https://wewnumam.github.io/articles/software-architecture-patterns/)
 - [Learn From Free College Cs Courses](https://wewnumam.github.io/articles/learn-from-free-college-cs-courses/)
 - [Career Change to Code](https://wewnumam.github.io/articles/career-change-to-code/)
 - [Productivity as Developer](https://wewnumam.github.io/articles/productivity-as-developer/)
 - [Freelance Web Dev Roadmap](https://wewnumam.github.io/articles/freelance-web-dev-roadmap/)
-- [Gametech STMM MMTC Graduate Profile](https://wewnumam.github.io/articles/gametech-stmm-mmtc-graduate-profile/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
