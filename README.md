@@ -16,11 +16,11 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Homo Ludens](https://wewnumam.github.io/articles/homo-ludens/)
 - [Welcome to Artificial Intelligence](https://wewnumam.github.io/articles/welcome-to-artificial-intelligence/)
 - [Software Architecture Patterns](https://wewnumam.github.io/articles/software-architecture-patterns/)
 - [Learn From Free College Cs Courses](https://wewnumam.github.io/articles/learn-from-free-college-cs-courses/)
 - [Career Change to Code](https://wewnumam.github.io/articles/career-change-to-code/)
-- [Productivity as Developer](https://wewnumam.github.io/articles/productivity-as-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
