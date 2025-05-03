@@ -16,11 +16,11 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Game Design](https://wewnumam.github.io/articles/the-art-of-game-design/)
 - [Kickstart Your Software Developer Journey](https://wewnumam.github.io/articles/kickstart-your-software-developer-journey/)
 - [Homo Ludens](https://wewnumam.github.io/articles/homo-ludens/)
 - [Welcome to Artificial Intelligence](https://wewnumam.github.io/articles/welcome-to-artificial-intelligence/)
 - [Software Architecture Patterns](https://wewnumam.github.io/articles/software-architecture-patterns/)
-- [Learn From Free College Cs Courses](https://wewnumam.github.io/articles/learn-from-free-college-cs-courses/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
