@@ -16,11 +16,11 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Artificial Intelligence: Definition, Basis, Approach, and Foundations](https://wewnumam.github.io/articles/artificial-intelligence-definition-basis-approach-and-foundations/)
 - [Enhancing Your Software Craftsmanship](https://wewnumam.github.io/articles/enhancing-your-software-craftsmanship/)
 - [Agate MVC Case Study](https://wewnumam.github.io/articles/agate-mvc-case-study/)
 - [The Art of Game Design](https://wewnumam.github.io/articles/the-art-of-game-design/)
 - [Kickstart Your Software Developer Journey](https://wewnumam.github.io/articles/kickstart-your-software-developer-journey/)
-- [Homo Ludens](https://wewnumam.github.io/articles/homo-ludens/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
